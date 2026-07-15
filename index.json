@@ -1,0 +1,101 @@
+{
+  "library": "drum-loops",
+  "displayName": "Drum Loops (Industrial)",
+  "description": "Industrial drum loops at varied BPMs for beat-making. Sourced from Freesound packs 42294 + 42296 (looplicator Industrial Drum Loops, CC-BY-4.0).",
+  "format": "opus-48k",
+  "sourceRepo": "https://freesound.org/people/looplicator/",
+  "previewRepo": "https://github.com/zulfikarbarbora-outl/drum-loops-opus-48",
+  "branch": "main",
+  "fileCount": 7,
+  "baseUrl": "https://raw.githubusercontent.com/zulfikarbarbora-outl/drum-loops-opus-48/main/",
+  "files": [
+    {
+      "file": "industrial_drum_loop_089bpm_9731.opus",
+      "name": "industrial_drum_loop_089bpm_9731",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/drum-loops-opus-48/main/industrial_drum_loop_089bpm_9731.opus",
+      "size": 146064,
+      "freesoundId": 779269,
+      "duration": 21.6,
+      "rootNote": 60,
+      "license": "CC-BY-4.0",
+      "source": "looplicator (Freesound, packs 42294 + 42296)"
+    },
+    {
+      "file": "industrial_drum_loop_130bpm_10060.opus",
+      "name": "industrial_drum_loop_130bpm_10060",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/drum-loops-opus-48/main/industrial_drum_loop_130bpm_10060.opus",
+      "size": 90364,
+      "freesoundId": 779601,
+      "duration": 14.8,
+      "rootNote": 60,
+      "license": "CC-BY-4.0",
+      "source": "looplicator (Freesound, packs 42294 + 42296)"
+    },
+    {
+      "file": "industrial_drum_loop_141bpm_9572.opus",
+      "name": "industrial_drum_loop_141bpm_9572",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/drum-loops-opus-48/main/industrial_drum_loop_141bpm_9572.opus",
+      "size": 92374,
+      "freesoundId": 778998,
+      "duration": 13.6,
+      "rootNote": 60,
+      "license": "CC-BY-4.0",
+      "source": "looplicator (Freesound, packs 42294 + 42296)"
+    },
+    {
+      "file": "industrial_drum_loop_148bpm_10330.opus",
+      "name": "industrial_drum_loop_148bpm_10330",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/drum-loops-opus-48/main/industrial_drum_loop_148bpm_10330.opus",
+      "size": 91065,
+      "freesoundId": 780105,
+      "duration": 13.0,
+      "rootNote": 60,
+      "license": "CC-BY-4.0",
+      "source": "looplicator (Freesound, packs 42294 + 42296)"
+    },
+    {
+      "file": "industrial_drum_loop_150bpm_12187.opus",
+      "name": "industrial_drum_loop_150bpm_12187",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/drum-loops-opus-48/main/industrial_drum_loop_150bpm_12187.opus",
+      "size": 90125,
+      "freesoundId": 782279,
+      "duration": 12.8,
+      "rootNote": 60,
+      "license": "CC-BY-4.0",
+      "source": "looplicator (Freesound, packs 42294 + 42296)"
+    },
+    {
+      "file": "industrial_drum_loop_160bpm_12600.opus",
+      "name": "industrial_drum_loop_160bpm_12600",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/drum-loops-opus-48/main/industrial_drum_loop_160bpm_12600.opus",
+      "size": 81191,
+      "freesoundId": 782896,
+      "duration": 12.0,
+      "rootNote": 60,
+      "license": "CC-BY-4.0",
+      "source": "looplicator (Freesound, packs 42294 + 42296)"
+    },
+    {
+      "file": "industrial_drum_loop_192bpm_10334.opus",
+      "name": "industrial_drum_loop_192bpm_10334",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/drum-loops-opus-48/main/industrial_drum_loop_192bpm_10334.opus",
+      "size": 84163,
+      "freesoundId": 780109,
+      "duration": 10.0,
+      "rootNote": 60,
+      "license": "CC-BY-4.0",
+      "source": "looplicator (Freesound, packs 42294 + 42296)"
+    }
+  ],
+  "byNote": {
+    "60": [
+      "industrial_drum_loop_089bpm_9731.opus",
+      "industrial_drum_loop_130bpm_10060.opus",
+      "industrial_drum_loop_141bpm_9572.opus",
+      "industrial_drum_loop_148bpm_10330.opus",
+      "industrial_drum_loop_150bpm_12187.opus",
+      "industrial_drum_loop_160bpm_12600.opus",
+      "industrial_drum_loop_192bpm_10334.opus"
+    ]
+  }
+}
